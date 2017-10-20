@@ -1,0 +1,27 @@
+body { 
+    margin: 0;
+    font: normal 10px/14px 'Helvetica', Arial, sans-serif;
+    background: #44accf;
+}
+/* Positioning Rules */
+#container { 
+    width: 1048px;
+    margin: 0 auto;
+}
+#nav { 
+    height: 50px;
+    background: #b7d84b;
+}
+/* Stylistic Rules */
+#nav a {
+    display: inline;
+    float: left;
+    color: #fff;
+	text-decoration: none;
+	padding: 0 20px;
+	line-height: 50px;
+	border-right: 1px solid #91ab3b;
+}
+#nav a:hover {
+    background: #91ab3b;
+}

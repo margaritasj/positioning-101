@@ -1,0 +1,15 @@
+.box { 
+    position: relative; 
+    width: 200px; 
+    height: 200px;
+}
+#box_1 { 
+    background: #ee3e64; 
+}
+#box_2 { 
+    background: #44accf; 
+}
+#box_3 { 
+    background: #b7d84b; 
+}
+

@@ -1,0 +1,1 @@
+alert('Hola, este es el Ejemplo H2 de Posicionamiento CSS 101');

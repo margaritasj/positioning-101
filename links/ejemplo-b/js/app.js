@@ -1,0 +1,1 @@
+alert('Hola, este es el Ejemplo B de Posicionamiento CSS 101');
